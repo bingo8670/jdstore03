@@ -36,6 +36,8 @@ gem 'bootstrap-sass'
 gem 'devise'
 #表哥系统
 gem 'simple_form'
+#图标
+gem 'font-awesome-rails'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
