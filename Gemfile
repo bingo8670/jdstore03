@@ -34,6 +34,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'
 #登陆系统
 gem 'devise'
+#表哥系统
+gem 'simple_form'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
