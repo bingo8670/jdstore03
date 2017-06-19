@@ -34,10 +34,13 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'
 #登陆系统
 gem 'devise'
-#表哥系统
+#表格系统
 gem 'simple_form'
 #图标
 gem 'font-awesome-rails'
+#上传图片
+gem 'carrierwave'
+gem 'mini_magick'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
